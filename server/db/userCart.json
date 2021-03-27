@@ -1,0 +1,34 @@
+{
+    "amount": 0,
+    "countGoods": 0,
+    "contents": [
+        {
+            "quantity": 0,
+            "img": "./img/red-jacket.jpg",
+            "id_product": 457,
+            "product_name": "Jacket",
+            "price": 3000
+        },
+        {
+            "quantity": 0,
+            "img": "./img/red-jacket.jpg",
+            "id_product": 457,
+            "product_name": "Пиджак",
+            "price": 3000
+        },
+        {
+            "quantity": 0,
+            "img": "./img/man-in-coat.jpg",
+            "id_product": 124,
+            "product_name": "Куртка",
+            "price": 1600
+        },
+        {
+            "quantity": 0,
+            "img": "./img/man-in-coat.jpg",
+            "id_product": 124,
+            "product_name": "Куртка",
+            "price": 1600
+        }
+    ]
+}

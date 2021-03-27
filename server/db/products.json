@@ -1,0 +1,26 @@
+[
+  {
+    "img": "./img/man-in-coat.jpg",
+    "id_product": 124,
+    "product_name": "Куртка",
+    "price": 1600
+  },
+  {
+    "img": "./img/red-jacket.jpg",
+    "id_product": 457,
+    "product_name": "Пиджак",
+    "price": 3000
+  },
+  {
+    "img": "./img/man-in-hat.jpg",
+    "id_product": 123,
+    "product_name": "Шляпа",
+    "price": 45600
+  },
+  {
+    "img": "./img/man-white-t-shirt.jpg",
+    "id_product": 456,
+    "product_name": "Футболка",
+    "price": 1000
+  }
+]
